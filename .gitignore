@@ -16,3 +16,11 @@ dist/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# TypeScript build cache
+*.tsbuildinfo
