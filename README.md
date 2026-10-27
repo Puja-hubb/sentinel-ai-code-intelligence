@@ -1,5 +1,7 @@
 # SentinelAI — Code Intelligence Platform
 
+AI-powered code intelligence platform for analyzing source code, detecting potential vulnerabilities, and improving code quality through intelligent insights.
+
 SentinelAI is a developer-focused platform for analyzing source code, reviewing security findings, and validating proposed fixes.
 
 ## Current status
